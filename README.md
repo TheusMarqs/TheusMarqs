@@ -36,8 +36,7 @@ I'm a passionate software developer with expertise in building scalable and user
 
 - **🎟 Event Ticketing App** (Flutter + Django + Postgres): A mobile app and website for purchasing and managing event tickets with integrated payment systems.  
 - **💬 Store with Real-Time Chat App** (React native + Django + Redis): A scalable mobile and web store with web chat using WebSockets and Redis for seamless communication.  
-- **🔗 Spring RESTful API** (Spring Boot + Postgres): A robust backend API featuring JWT-based authentication, multiple CRUD operations to manage resources, interactive documentation with Swagger and role-based security for access control.
-- **📅 University Scheduling System** (Angular + Spring Boot+ MySQL): A comprehensive scheduling application for managing university timetables.
+- **🔗 Spring RESTful API for class scheduling app** (Spring Boot + Postgres): A robust backend API featuring JWT-based authentication, multiple CRUD operations to manage resources, interactive documentation with Swagger and role-based security for access control.
 
 ---
 
