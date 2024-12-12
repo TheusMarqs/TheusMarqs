@@ -1,6 +1,6 @@
 # 🌍 Hi there, I'm Matheus!
 
-## 💻 Full-Stack Developer | Python | Java | JavaScript | Remote Work Enthusiast  
+## 💻 Full-Stack Developer | Python | Java | Dart | Remote Work Enthusiast  
 
 I'm a passionate software developer with expertise in building scalable and user-friendly web and mobile applications. My tech journey spans from backend APIs to sleek frontends, with a focus on solving real-world problems. I love collaborating remotely with diverse teams to deliver impactful software solutions.  
 
